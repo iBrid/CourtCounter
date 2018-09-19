@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="sharapova">Sharapova</string>
+    <string name="serena">Serena</string>
+    <string name="love">love</string>
+    <string name="one_point">\'15'</string>
+    <string name="two_points">\'30'</string>
+    <string name="three_points">\'40'</string>
+    <string name="four_points">Game</string>
+    <string name="reset">Reset</string>
+    <string name="app_label">Tennis Counter</string>
+</resources>
